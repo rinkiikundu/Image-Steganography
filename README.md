@@ -18,6 +18,16 @@ The following dependencies are required to run the image steganography project:
 - PIL library 
 
 #Encoding
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/rinkiikundu/Image-Steganography/assets/114035567/06c186bc-3447-4acf-b3a6-560071a53f56)
 ![image](https://github.com/rinkiikundu/Image-Steganography/assets/114035567/404c096e-847c-440d-8c82-c6f9a4de6f56)
 
