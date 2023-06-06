@@ -32,4 +32,13 @@ The following dependencies are required to run the image steganography project:
 ![image](https://github.com/rinkiikundu/Image-Steganography/assets/114035567/404c096e-847c-440d-8c82-c6f9a4de6f56)
 
 #Decoding 
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/rinkiikundu/Image-Steganography/assets/114035567/3ebcf555-141f-483e-9f95-5874c0c33bf9)
